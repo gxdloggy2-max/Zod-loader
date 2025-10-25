@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7b7da0ce90857603",
+        "key": "papaloader",
+        "expirydate": "27-12-2025",
+        "Allowoffline": false
     }
 ]
