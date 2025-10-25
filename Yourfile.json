@@ -15,6 +15,6 @@
         "device_id": "7b7da0ce90857603",
         "key": "papaloader",
         "expirydate": "27-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
